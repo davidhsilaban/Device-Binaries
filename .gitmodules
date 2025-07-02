@@ -1,0 +1,3 @@
+[submodule "moonstone"]
+	path = moonstone
+	url = https://github.com/davidhsilaban/moonstoneBinaries.git
